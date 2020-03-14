@@ -1,0 +1,14 @@
+:root {
+  --main-color: black;
+  --primary-color: #f2f2f2;
+}
+
+body {
+  background-color: var(--primary-color);
+  color: var(--main-color);
+  font-family: "Spartan", sans-serif;
+  /* font-family: "Roboto", sans-serif; */
+}
+p {
+  padding-bottom: 3px;
+}
